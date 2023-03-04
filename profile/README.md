@@ -1,8 +1,8 @@
-# Welcome to our GitHub organization!
+# Welcome to Bali Coders!
 
 We are a group of coding enthusiasts based in Bali who are passionate about data science, AI, and coding in general. Our goal is to collaborate with like-minded individuals in Bali to create innovative solutions that push the boundaries of what is possible.
 
-## Joining our organization
+## Joining Bali Coder
 
 If you are based in Bali and interested in joining our organization and contributing to our projects, please follow these steps:
 
